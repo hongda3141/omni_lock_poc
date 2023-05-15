@@ -1,4 +1,4 @@
-start create:
+start test demo:
 `cargo run`
 
 source code:
