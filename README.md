@@ -1,3 +1,5 @@
+This repo show the demo of create a omnilock by inputting a H160 format address.
+
 start test demo:
 `cargo run`
 

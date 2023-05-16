@@ -10,3 +10,4 @@ ckb-sdk = {version = "2.5", features = ["default"]}
 ckb-types = "0.108"
 anyhow = "1.0"
 ckb-hash = "=0.108.0"
+hex-literal = "0.4.1"
